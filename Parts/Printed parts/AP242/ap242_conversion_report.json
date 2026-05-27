@@ -1,0 +1,1007 @@
+{
+  "schema": "AP242DIS",
+  "input_dir": "/tmp/workspace/pngdeity/EnderSpark/Parts/Printed parts",
+  "output_dir": "/tmp/workspace/pngdeity/EnderSpark/Parts/Printed parts/AP242",
+  "files": {
+    "Tr8x2 nut set.STEP": {
+      "review": {
+        "file_description": "STEP AP214",
+        "file_schema": "AUTOMOTIVE_DESIGN",
+        "file_name": "Tr8x2 nut set.STEP",
+        "presentation_tokens": {
+          "COLOUR_RGB": 2,
+          "PRESENTATION_STYLE_ASSIGNMENT": 2,
+          "STYLED_ITEM": 2,
+          "PRESENTATION_LAYER_ASSIGNMENT": 2,
+          "MECHANICAL_DESIGN_GEOMETRIC_PRESENTATION_REPRESENTATION": 2
+        },
+        "pmi_tokens": {
+          "TEXT_LITERAL": 0,
+          "TEXT_STYLE": 0,
+          "DRAUGHTING": 0,
+          "ANNOTATION": 0,
+          "DIMENSION": 0,
+          "GEOMETRIC_TOLERANCE": 0,
+          "DATUM": 0
+        },
+        "external_tokens": {
+          "EXTERNAL": 0,
+          "APPLIED_DOCUMENT_REFERENCE": 0,
+          "DOCUMENT_FILE": 0,
+          "DOCUMENT": 0
+        },
+        "assembly_tokens": {
+          "NEXT_ASSEMBLY_USAGE_OCCURRENCE": 0,
+          "ASSEMBLY_COMPONENT_USAGE": 0,
+          "PRODUCT_DEFINITION_ASSEMBLY": 0,
+          "CONFIGURATION_DESIGN": 0
+        },
+        "unit_tokens": {
+          "GLOBAL_UNIT_ASSIGNED_CONTEXT": 3,
+          "GLOBAL_UNCERTAINTY_ASSIGNED_CONTEXT": 3,
+          "UNCERTAINTY_MEASURE_WITH_UNIT": 3
+        },
+        "has_presentation": true,
+        "has_pmi": false,
+        "has_external_refs": false,
+        "has_assembly_usage": false,
+        "has_unit_context": true
+      },
+      "source_stats": {
+        "free_shapes": 1,
+        "solids": 1,
+        "faces": 58,
+        "edges": 324,
+        "vertices": 648,
+        "bbox": [
+          -9.000086087684641,
+          -8.986186465490356,
+          -0.9000860986417631,
+          9.000086087684641,
+          9.000086087684641,
+          9.000086076727518
+        ],
+        "volume": 1464.4543330952094,
+        "colors": 1,
+        "layers": 0
+      },
+      "converted_stats": {
+        "free_shapes": 1,
+        "solids": 1,
+        "faces": 58,
+        "edges": 324,
+        "vertices": 648,
+        "bbox": [
+          -9.000086087684751,
+          -8.986186465490752,
+          -0.9000860986417517,
+          9.000086087684751,
+          9.000086087684751,
+          9.00008607672775
+        ],
+        "volume": 1464.454333095244,
+        "colors": 1,
+        "layers": 0
+      },
+      "diff": {
+        "volume_delta": 3.456079866737127e-11,
+        "volume_rel_delta": 2.3599779034642215e-14,
+        "faces_delta": 0,
+        "edges_delta": 0,
+        "vertices_delta": 0,
+        "solids_delta": 0,
+        "colors_delta": 0,
+        "layers_delta": 0,
+        "bbox_delta": [
+          -1.1013412404281553e-13,
+          -3.9612757518625585e-13,
+          1.1435297153639112e-14,
+          1.1013412404281553e-13,
+          1.1013412404281553e-13,
+          2.327027459614328e-13
+        ]
+      },
+      "warnings": []
+    },
+    "X motor support.STEP": {
+      "review": {
+        "file_description": "STEP AP214",
+        "file_schema": "AUTOMOTIVE_DESIGN",
+        "file_name": "equerre  x.STEP",
+        "presentation_tokens": {
+          "COLOUR_RGB": 2,
+          "PRESENTATION_STYLE_ASSIGNMENT": 2,
+          "STYLED_ITEM": 2,
+          "PRESENTATION_LAYER_ASSIGNMENT": 2,
+          "MECHANICAL_DESIGN_GEOMETRIC_PRESENTATION_REPRESENTATION": 2
+        },
+        "pmi_tokens": {
+          "TEXT_LITERAL": 0,
+          "TEXT_STYLE": 0,
+          "DRAUGHTING": 0,
+          "ANNOTATION": 0,
+          "DIMENSION": 0,
+          "GEOMETRIC_TOLERANCE": 0,
+          "DATUM": 0
+        },
+        "external_tokens": {
+          "EXTERNAL": 0,
+          "APPLIED_DOCUMENT_REFERENCE": 0,
+          "DOCUMENT_FILE": 0,
+          "DOCUMENT": 0
+        },
+        "assembly_tokens": {
+          "NEXT_ASSEMBLY_USAGE_OCCURRENCE": 0,
+          "ASSEMBLY_COMPONENT_USAGE": 0,
+          "PRODUCT_DEFINITION_ASSEMBLY": 0,
+          "CONFIGURATION_DESIGN": 0
+        },
+        "unit_tokens": {
+          "GLOBAL_UNIT_ASSIGNED_CONTEXT": 3,
+          "GLOBAL_UNCERTAINTY_ASSIGNED_CONTEXT": 3,
+          "UNCERTAINTY_MEASURE_WITH_UNIT": 3
+        },
+        "has_presentation": true,
+        "has_pmi": false,
+        "has_external_refs": false,
+        "has_assembly_usage": false,
+        "has_unit_context": true
+      },
+      "source_stats": {
+        "free_shapes": 1,
+        "solids": 1,
+        "faces": 29,
+        "edges": 156,
+        "vertices": 312,
+        "bbox": [
+          -3.0000001,
+          -4.0000001,
+          -50.0000001,
+          45.00000010000001,
+          47.00000010000001,
+          5.0000001
+        ],
+        "volume": 25443.672379322838,
+        "colors": 1,
+        "layers": 0
+      },
+      "converted_stats": {
+        "free_shapes": 1,
+        "solids": 1,
+        "faces": 29,
+        "edges": 156,
+        "vertices": 312,
+        "bbox": [
+          -3.0000001,
+          -4.0000001000000065,
+          -50.0000001,
+          45.0000001,
+          47.00000010000454,
+          5.0000001
+        ],
+        "volume": 25443.672379323943,
+        "colors": 1,
+        "layers": 0
+      },
+      "diff": {
+        "volume_delta": 1.1059455573558807e-09,
+        "volume_rel_delta": 4.346642815031069e-14,
+        "faces_delta": 0,
+        "edges_delta": 0,
+        "vertices_delta": 0,
+        "solids_delta": 0,
+        "colors_delta": 0,
+        "layers_delta": 0,
+        "bbox_delta": [
+          0.0,
+          -6.217248937900877e-15,
+          0.0,
+          -7.105427357601002e-15,
+          4.533262654149439e-12,
+          0.0
+        ]
+      },
+      "warnings": []
+    },
+    "aluminium box front without text.STEP": {
+      "review": {
+        "file_description": "STEP AP214",
+        "file_schema": "AUTOMOTIVE_DESIGN",
+        "file_name": "faceboitier alu.STEP",
+        "presentation_tokens": {
+          "COLOUR_RGB": 31,
+          "PRESENTATION_STYLE_ASSIGNMENT": 31,
+          "STYLED_ITEM": 31,
+          "PRESENTATION_LAYER_ASSIGNMENT": 31,
+          "MECHANICAL_DESIGN_GEOMETRIC_PRESENTATION_REPRESENTATION": 31
+        },
+        "pmi_tokens": {
+          "TEXT_LITERAL": 0,
+          "TEXT_STYLE": 0,
+          "DRAUGHTING": 0,
+          "ANNOTATION": 0,
+          "DIMENSION": 0,
+          "GEOMETRIC_TOLERANCE": 0,
+          "DATUM": 0
+        },
+        "external_tokens": {
+          "EXTERNAL": 0,
+          "APPLIED_DOCUMENT_REFERENCE": 0,
+          "DOCUMENT_FILE": 0,
+          "DOCUMENT": 0
+        },
+        "assembly_tokens": {
+          "NEXT_ASSEMBLY_USAGE_OCCURRENCE": 0,
+          "ASSEMBLY_COMPONENT_USAGE": 0,
+          "PRODUCT_DEFINITION_ASSEMBLY": 0,
+          "CONFIGURATION_DESIGN": 0
+        },
+        "unit_tokens": {
+          "GLOBAL_UNIT_ASSIGNED_CONTEXT": 32,
+          "GLOBAL_UNCERTAINTY_ASSIGNED_CONTEXT": 32,
+          "UNCERTAINTY_MEASURE_WITH_UNIT": 32
+        },
+        "has_presentation": true,
+        "has_pmi": false,
+        "has_external_refs": false,
+        "has_assembly_usage": false,
+        "has_unit_context": true
+      },
+      "source_stats": {
+        "free_shapes": 1,
+        "solids": 30,
+        "faces": 477,
+        "edges": 2502,
+        "vertices": 5004,
+        "bbox": [
+          -60.85627614166665,
+          -14.05136647369791,
+          1.8999998999999985,
+          -4.518496426082364,
+          36.05794362213541,
+          2.1000001000000013
+        ],
+        "volume": 29.489878426986387,
+        "colors": 1,
+        "layers": 0
+      },
+      "converted_stats": {
+        "free_shapes": 1,
+        "solids": 30,
+        "faces": 477,
+        "edges": 2502,
+        "vertices": 5004,
+        "bbox": [
+          -60.856276141660004,
+          -14.051366473689999,
+          1.8999998999999999,
+          -4.518496426082,
+          36.057943622135,
+          2.1000001
+        ],
+        "volume": 29.489878426695462,
+        "colors": 1,
+        "layers": 0
+      },
+      "diff": {
+        "volume_delta": -2.909246177296154e-10,
+        "volume_rel_delta": -9.865236252157226e-12,
+        "faces_delta": 0,
+        "edges_delta": 0,
+        "vertices_delta": 0,
+        "solids_delta": 0,
+        "colors_delta": 0,
+        "layers_delta": 0,
+        "bbox_delta": [
+          6.643574579356937e-12,
+          7.910117005849315e-12,
+          1.3322676295501878e-15,
+          3.6415315207705135e-13,
+          -4.121147867408581e-13,
+          -1.3322676295501878e-15
+        ]
+      },
+      "warnings": []
+    },
+    "aluminium box_text.STEP": {
+      "review": {
+        "file_description": "STEP AP214",
+        "file_schema": "AUTOMOTIVE_DESIGN",
+        "file_name": "text.STEP",
+        "presentation_tokens": {
+          "COLOUR_RGB": 31,
+          "PRESENTATION_STYLE_ASSIGNMENT": 31,
+          "STYLED_ITEM": 31,
+          "PRESENTATION_LAYER_ASSIGNMENT": 31,
+          "MECHANICAL_DESIGN_GEOMETRIC_PRESENTATION_REPRESENTATION": 31
+        },
+        "pmi_tokens": {
+          "TEXT_LITERAL": 0,
+          "TEXT_STYLE": 0,
+          "DRAUGHTING": 0,
+          "ANNOTATION": 0,
+          "DIMENSION": 0,
+          "GEOMETRIC_TOLERANCE": 0,
+          "DATUM": 0
+        },
+        "external_tokens": {
+          "EXTERNAL": 0,
+          "APPLIED_DOCUMENT_REFERENCE": 0,
+          "DOCUMENT_FILE": 0,
+          "DOCUMENT": 0
+        },
+        "assembly_tokens": {
+          "NEXT_ASSEMBLY_USAGE_OCCURRENCE": 0,
+          "ASSEMBLY_COMPONENT_USAGE": 0,
+          "PRODUCT_DEFINITION_ASSEMBLY": 0,
+          "CONFIGURATION_DESIGN": 0
+        },
+        "unit_tokens": {
+          "GLOBAL_UNIT_ASSIGNED_CONTEXT": 32,
+          "GLOBAL_UNCERTAINTY_ASSIGNED_CONTEXT": 32,
+          "UNCERTAINTY_MEASURE_WITH_UNIT": 32
+        },
+        "has_presentation": true,
+        "has_pmi": false,
+        "has_external_refs": false,
+        "has_assembly_usage": false,
+        "has_unit_context": true
+      },
+      "source_stats": {
+        "free_shapes": 1,
+        "solids": 30,
+        "faces": 477,
+        "edges": 2502,
+        "vertices": 5004,
+        "bbox": [
+          -60.85627614166665,
+          -14.05136647369791,
+          1.8999998999999985,
+          -5.018496426082353,
+          36.05794362213541,
+          2.1000001000000013
+        ],
+        "volume": 29.489840847588695,
+        "colors": 1,
+        "layers": 0
+      },
+      "converted_stats": {
+        "free_shapes": 1,
+        "solids": 30,
+        "faces": 477,
+        "edges": 2502,
+        "vertices": 5004,
+        "bbox": [
+          -60.856276141660004,
+          -14.051366473689999,
+          1.8999998999999999,
+          -5.018496426082,
+          36.057943622135,
+          2.1000001
+        ],
+        "volume": 29.489840847303725,
+        "colors": 1,
+        "layers": 0
+      },
+      "diff": {
+        "volume_delta": -2.849702696039458e-10,
+        "volume_rel_delta": -9.66333698024169e-12,
+        "faces_delta": 0,
+        "edges_delta": 0,
+        "vertices_delta": 0,
+        "solids_delta": 0,
+        "colors_delta": 0,
+        "layers_delta": 0,
+        "bbox_delta": [
+          6.643574579356937e-12,
+          7.910117005849315e-12,
+          1.3322676295501878e-15,
+          3.5349501104064984e-13,
+          -4.121147867408581e-13,
+          -1.3322676295501878e-15
+        ]
+      },
+      "warnings": []
+    },
+    "rj45plug.STEP": {
+      "review": {
+        "file_description": "STEP AP214",
+        "file_schema": "AUTOMOTIVE_DESIGN",
+        "file_name": "rj45plug.STEP",
+        "presentation_tokens": {
+          "COLOUR_RGB": 2,
+          "PRESENTATION_STYLE_ASSIGNMENT": 2,
+          "STYLED_ITEM": 2,
+          "PRESENTATION_LAYER_ASSIGNMENT": 2,
+          "MECHANICAL_DESIGN_GEOMETRIC_PRESENTATION_REPRESENTATION": 2
+        },
+        "pmi_tokens": {
+          "TEXT_LITERAL": 0,
+          "TEXT_STYLE": 0,
+          "DRAUGHTING": 0,
+          "ANNOTATION": 0,
+          "DIMENSION": 0,
+          "GEOMETRIC_TOLERANCE": 0,
+          "DATUM": 0
+        },
+        "external_tokens": {
+          "EXTERNAL": 0,
+          "APPLIED_DOCUMENT_REFERENCE": 0,
+          "DOCUMENT_FILE": 0,
+          "DOCUMENT": 0
+        },
+        "assembly_tokens": {
+          "NEXT_ASSEMBLY_USAGE_OCCURRENCE": 0,
+          "ASSEMBLY_COMPONENT_USAGE": 0,
+          "PRODUCT_DEFINITION_ASSEMBLY": 0,
+          "CONFIGURATION_DESIGN": 0
+        },
+        "unit_tokens": {
+          "GLOBAL_UNIT_ASSIGNED_CONTEXT": 3,
+          "GLOBAL_UNCERTAINTY_ASSIGNED_CONTEXT": 3,
+          "UNCERTAINTY_MEASURE_WITH_UNIT": 3
+        },
+        "has_presentation": true,
+        "has_pmi": false,
+        "has_external_refs": false,
+        "has_assembly_usage": false,
+        "has_unit_context": true
+      },
+      "source_stats": {
+        "free_shapes": 1,
+        "solids": 1,
+        "faces": 31,
+        "edges": 158,
+        "vertices": 316,
+        "bbox": [
+          -14.000152474743738,
+          -14.000152474743738,
+          -8.00015247474374,
+          14.000152474743738,
+          14.000152474743738,
+          3.0001524747437402
+        ],
+        "volume": 1923.4673213110284,
+        "colors": 1,
+        "layers": 0
+      },
+      "converted_stats": {
+        "free_shapes": 1,
+        "solids": 1,
+        "faces": 31,
+        "edges": 158,
+        "vertices": 316,
+        "bbox": [
+          -14.00015247474381,
+          -14.00015247474381,
+          -8.00015247474381,
+          14.00015247474381,
+          14.00015247474381,
+          3.000152474743811
+        ],
+        "volume": 1923.4673213114775,
+        "colors": 1,
+        "layers": 0
+      },
+      "diff": {
+        "volume_delta": 4.490630090003833e-10,
+        "volume_rel_delta": 2.334653695568395e-13,
+        "faces_delta": 0,
+        "edges_delta": 0,
+        "vertices_delta": 0,
+        "solids_delta": 0,
+        "colors_delta": 0,
+        "layers_delta": 0,
+        "bbox_delta": [
+          -7.283063041541027e-14,
+          -7.283063041541027e-14,
+          -7.105427357601002e-14,
+          7.283063041541027e-14,
+          7.283063041541027e-14,
+          7.061018436615996e-14
+        ]
+      },
+      "warnings": []
+    },
+    "spacer.STEP": {
+      "review": {
+        "file_description": "STEP AP214",
+        "file_schema": "AUTOMOTIVE_DESIGN",
+        "file_name": "spacer.STEP",
+        "presentation_tokens": {
+          "COLOUR_RGB": 2,
+          "PRESENTATION_STYLE_ASSIGNMENT": 2,
+          "STYLED_ITEM": 2,
+          "PRESENTATION_LAYER_ASSIGNMENT": 2,
+          "MECHANICAL_DESIGN_GEOMETRIC_PRESENTATION_REPRESENTATION": 2
+        },
+        "pmi_tokens": {
+          "TEXT_LITERAL": 0,
+          "TEXT_STYLE": 0,
+          "DRAUGHTING": 0,
+          "ANNOTATION": 0,
+          "DIMENSION": 0,
+          "GEOMETRIC_TOLERANCE": 0,
+          "DATUM": 0
+        },
+        "external_tokens": {
+          "EXTERNAL": 0,
+          "APPLIED_DOCUMENT_REFERENCE": 0,
+          "DOCUMENT_FILE": 0,
+          "DOCUMENT": 0
+        },
+        "assembly_tokens": {
+          "NEXT_ASSEMBLY_USAGE_OCCURRENCE": 0,
+          "ASSEMBLY_COMPONENT_USAGE": 0,
+          "PRODUCT_DEFINITION_ASSEMBLY": 0,
+          "CONFIGURATION_DESIGN": 0
+        },
+        "unit_tokens": {
+          "GLOBAL_UNIT_ASSIGNED_CONTEXT": 3,
+          "GLOBAL_UNCERTAINTY_ASSIGNED_CONTEXT": 3,
+          "UNCERTAINTY_MEASURE_WITH_UNIT": 3
+        },
+        "has_presentation": true,
+        "has_pmi": false,
+        "has_external_refs": false,
+        "has_assembly_usage": false,
+        "has_unit_context": true
+      },
+      "source_stats": {
+        "free_shapes": 1,
+        "solids": 1,
+        "faces": 6,
+        "edges": 24,
+        "vertices": 48,
+        "bbox": [
+          -6.000000100000001,
+          -6.000000100000001,
+          -1e-07,
+          6.000000100000001,
+          6.000000100000001,
+          13.0000001
+        ],
+        "volume": 732.5801369089702,
+        "colors": 1,
+        "layers": 0
+      },
+      "converted_stats": {
+        "free_shapes": 1,
+        "solids": 1,
+        "faces": 6,
+        "edges": 24,
+        "vertices": 48,
+        "bbox": [
+          -6.0000001,
+          -6.0000001,
+          -1e-07,
+          6.0000001,
+          6.0000001,
+          13.0000001
+        ],
+        "volume": 732.5801369090022,
+        "colors": 1,
+        "layers": 0
+      },
+      "diff": {
+        "volume_delta": 3.205968823749572e-11,
+        "volume_rel_delta": 4.3762704750319257e-14,
+        "faces_delta": 0,
+        "edges_delta": 0,
+        "vertices_delta": 0,
+        "solids_delta": 0,
+        "colors_delta": 0,
+        "layers_delta": 0,
+        "bbox_delta": [
+          8.881784197001252e-16,
+          8.881784197001252e-16,
+          0.0,
+          -8.881784197001252e-16,
+          -8.881784197001252e-16,
+          0.0
+        ]
+      },
+      "warnings": []
+    },
+    "xbearingholder left.STEP": {
+      "review": {
+        "file_description": "STEP AP214",
+        "file_schema": "AUTOMOTIVE_DESIGN",
+        "file_name": "xbearingholder left.STEP",
+        "presentation_tokens": {
+          "COLOUR_RGB": 2,
+          "PRESENTATION_STYLE_ASSIGNMENT": 2,
+          "STYLED_ITEM": 2,
+          "PRESENTATION_LAYER_ASSIGNMENT": 2,
+          "MECHANICAL_DESIGN_GEOMETRIC_PRESENTATION_REPRESENTATION": 2
+        },
+        "pmi_tokens": {
+          "TEXT_LITERAL": 0,
+          "TEXT_STYLE": 0,
+          "DRAUGHTING": 0,
+          "ANNOTATION": 0,
+          "DIMENSION": 0,
+          "GEOMETRIC_TOLERANCE": 0,
+          "DATUM": 0
+        },
+        "external_tokens": {
+          "EXTERNAL": 0,
+          "APPLIED_DOCUMENT_REFERENCE": 0,
+          "DOCUMENT_FILE": 0,
+          "DOCUMENT": 0
+        },
+        "assembly_tokens": {
+          "NEXT_ASSEMBLY_USAGE_OCCURRENCE": 0,
+          "ASSEMBLY_COMPONENT_USAGE": 0,
+          "PRODUCT_DEFINITION_ASSEMBLY": 0,
+          "CONFIGURATION_DESIGN": 0
+        },
+        "unit_tokens": {
+          "GLOBAL_UNIT_ASSIGNED_CONTEXT": 3,
+          "GLOBAL_UNCERTAINTY_ASSIGNED_CONTEXT": 3,
+          "UNCERTAINTY_MEASURE_WITH_UNIT": 3
+        },
+        "has_presentation": true,
+        "has_pmi": false,
+        "has_external_refs": false,
+        "has_assembly_usage": false,
+        "has_unit_context": true
+      },
+      "source_stats": {
+        "free_shapes": 1,
+        "solids": 1,
+        "faces": 31,
+        "edges": 150,
+        "vertices": 300,
+        "bbox": [
+          -1e-07,
+          -1.0000001776356839e-07,
+          -21.0000001,
+          21.0000001,
+          40.0000001,
+          5.5000001
+        ],
+        "volume": 6509.949493002312,
+        "colors": 1,
+        "layers": 0
+      },
+      "converted_stats": {
+        "free_shapes": 1,
+        "solids": 1,
+        "faces": 31,
+        "edges": 150,
+        "vertices": 300,
+        "bbox": [
+          -1e-07,
+          -1.0000677324862863e-07,
+          -21.0000001,
+          21.0000001,
+          40.0000001,
+          5.5000001
+        ],
+        "volume": 6509.949493000921,
+        "colors": 1,
+        "layers": 0
+      },
+      "diff": {
+        "volume_delta": -1.3906173990108073e-09,
+        "volume_rel_delta": -2.1361416098628916e-13,
+        "faces_delta": 0,
+        "edges_delta": 0,
+        "vertices_delta": 0,
+        "solids_delta": 0,
+        "colors_delta": 0,
+        "layers_delta": 0,
+        "bbox_delta": [
+          0.0,
+          -6.7554850602391525e-12,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "warnings": []
+    },
+    "xbearingholder right.STEP": {
+      "review": {
+        "file_description": "STEP AP214",
+        "file_schema": "AUTOMOTIVE_DESIGN",
+        "file_name": "xbearingholder right.STEP",
+        "presentation_tokens": {
+          "COLOUR_RGB": 2,
+          "PRESENTATION_STYLE_ASSIGNMENT": 2,
+          "STYLED_ITEM": 2,
+          "PRESENTATION_LAYER_ASSIGNMENT": 2,
+          "MECHANICAL_DESIGN_GEOMETRIC_PRESENTATION_REPRESENTATION": 2
+        },
+        "pmi_tokens": {
+          "TEXT_LITERAL": 0,
+          "TEXT_STYLE": 0,
+          "DRAUGHTING": 0,
+          "ANNOTATION": 0,
+          "DIMENSION": 0,
+          "GEOMETRIC_TOLERANCE": 0,
+          "DATUM": 0
+        },
+        "external_tokens": {
+          "EXTERNAL": 0,
+          "APPLIED_DOCUMENT_REFERENCE": 0,
+          "DOCUMENT_FILE": 0,
+          "DOCUMENT": 0
+        },
+        "assembly_tokens": {
+          "NEXT_ASSEMBLY_USAGE_OCCURRENCE": 0,
+          "ASSEMBLY_COMPONENT_USAGE": 0,
+          "PRODUCT_DEFINITION_ASSEMBLY": 0,
+          "CONFIGURATION_DESIGN": 0
+        },
+        "unit_tokens": {
+          "GLOBAL_UNIT_ASSIGNED_CONTEXT": 3,
+          "GLOBAL_UNCERTAINTY_ASSIGNED_CONTEXT": 3,
+          "UNCERTAINTY_MEASURE_WITH_UNIT": 3
+        },
+        "has_presentation": true,
+        "has_pmi": false,
+        "has_external_refs": false,
+        "has_assembly_usage": false,
+        "has_unit_context": true
+      },
+      "source_stats": {
+        "free_shapes": 1,
+        "solids": 1,
+        "faces": 24,
+        "edges": 108,
+        "vertices": 216,
+        "bbox": [
+          -1.000000100000001,
+          -1.0000001776356839e-07,
+          -21.0000001,
+          20.0000001,
+          20.0000001,
+          5.5000001
+        ],
+        "volume": 4119.787247336936,
+        "colors": 1,
+        "layers": 0
+      },
+      "converted_stats": {
+        "free_shapes": 1,
+        "solids": 1,
+        "faces": 24,
+        "edges": 108,
+        "vertices": 216,
+        "bbox": [
+          -1.0000001,
+          -1.0000675548506023e-07,
+          -21.00000010000001,
+          20.0000001,
+          20.0000001,
+          5.5000001
+        ],
+        "volume": 4119.787247336007,
+        "colors": 1,
+        "layers": 0
+      },
+      "diff": {
+        "volume_delta": -9.295035852119327e-10,
+        "volume_rel_delta": -2.2561931706856253e-13,
+        "faces_delta": 0,
+        "edges_delta": 0,
+        "vertices_delta": 0,
+        "solids_delta": 0,
+        "colors_delta": 0,
+        "layers_delta": 0,
+        "bbox_delta": [
+          8.881784197001252e-16,
+          -6.73772149184515e-12,
+          -7.105427357601002e-15,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "warnings": []
+    },
+    "y bearing +motor holder ender 3v2.STEP": {
+      "review": {
+        "file_description": "STEP AP214",
+        "file_schema": "AUTOMOTIVE_DESIGN",
+        "file_name": "y bearing +motor holder ender 3v2.STEP",
+        "presentation_tokens": {
+          "COLOUR_RGB": 2,
+          "PRESENTATION_STYLE_ASSIGNMENT": 2,
+          "STYLED_ITEM": 2,
+          "PRESENTATION_LAYER_ASSIGNMENT": 2,
+          "MECHANICAL_DESIGN_GEOMETRIC_PRESENTATION_REPRESENTATION": 2
+        },
+        "pmi_tokens": {
+          "TEXT_LITERAL": 0,
+          "TEXT_STYLE": 0,
+          "DRAUGHTING": 0,
+          "ANNOTATION": 0,
+          "DIMENSION": 0,
+          "GEOMETRIC_TOLERANCE": 0,
+          "DATUM": 0
+        },
+        "external_tokens": {
+          "EXTERNAL": 0,
+          "APPLIED_DOCUMENT_REFERENCE": 0,
+          "DOCUMENT_FILE": 0,
+          "DOCUMENT": 0
+        },
+        "assembly_tokens": {
+          "NEXT_ASSEMBLY_USAGE_OCCURRENCE": 0,
+          "ASSEMBLY_COMPONENT_USAGE": 0,
+          "PRODUCT_DEFINITION_ASSEMBLY": 0,
+          "CONFIGURATION_DESIGN": 0
+        },
+        "unit_tokens": {
+          "GLOBAL_UNIT_ASSIGNED_CONTEXT": 3,
+          "GLOBAL_UNCERTAINTY_ASSIGNED_CONTEXT": 3,
+          "UNCERTAINTY_MEASURE_WITH_UNIT": 3
+        },
+        "has_presentation": true,
+        "has_pmi": false,
+        "has_external_refs": false,
+        "has_assembly_usage": false,
+        "has_unit_context": true
+      },
+      "source_stats": {
+        "free_shapes": 1,
+        "solids": 1,
+        "faces": 56,
+        "edges": 318,
+        "vertices": 636,
+        "bbox": [
+          -1.0000000088817842e-07,
+          -20.000000100000005,
+          -1.0000001,
+          95.26129875673041,
+          47.5000001,
+          6.0000001
+        ],
+        "volume": 22097.684885731214,
+        "colors": 1,
+        "layers": 0
+      },
+      "converted_stats": {
+        "free_shapes": 1,
+        "solids": 1,
+        "faces": 56,
+        "edges": 318,
+        "vertices": 636,
+        "bbox": [
+          -1.0000363797880709e-07,
+          -20.0000001,
+          -1.0000001,
+          95.26129875673,
+          47.5000001,
+          6.0000001
+        ],
+        "volume": 22097.684885730006,
+        "colors": 1,
+        "layers": 0
+      },
+      "diff": {
+        "volume_delta": -1.2078089639544487e-09,
+        "volume_rel_delta": -5.4657715059297815e-14,
+        "faces_delta": 0,
+        "edges_delta": 0,
+        "vertices_delta": 0,
+        "solids_delta": 0,
+        "colors_delta": 0,
+        "layers_delta": 0,
+        "bbox_delta": [
+          -3.637090628672013e-12,
+          3.552713678800501e-15,
+          0.0,
+          -4.121147867408581e-13,
+          0.0,
+          0.0
+        ]
+      },
+      "warnings": []
+    },
+    "y bearing holder ender 3v2.STEP": {
+      "review": {
+        "file_description": "STEP AP214",
+        "file_schema": "AUTOMOTIVE_DESIGN",
+        "file_name": "y bearing holder ender 3v2.STEP",
+        "presentation_tokens": {
+          "COLOUR_RGB": 2,
+          "PRESENTATION_STYLE_ASSIGNMENT": 2,
+          "STYLED_ITEM": 2,
+          "PRESENTATION_LAYER_ASSIGNMENT": 2,
+          "MECHANICAL_DESIGN_GEOMETRIC_PRESENTATION_REPRESENTATION": 2
+        },
+        "pmi_tokens": {
+          "TEXT_LITERAL": 0,
+          "TEXT_STYLE": 0,
+          "DRAUGHTING": 0,
+          "ANNOTATION": 0,
+          "DIMENSION": 0,
+          "GEOMETRIC_TOLERANCE": 0,
+          "DATUM": 0
+        },
+        "external_tokens": {
+          "EXTERNAL": 0,
+          "APPLIED_DOCUMENT_REFERENCE": 0,
+          "DOCUMENT_FILE": 0,
+          "DOCUMENT": 0
+        },
+        "assembly_tokens": {
+          "NEXT_ASSEMBLY_USAGE_OCCURRENCE": 0,
+          "ASSEMBLY_COMPONENT_USAGE": 0,
+          "PRODUCT_DEFINITION_ASSEMBLY": 0,
+          "CONFIGURATION_DESIGN": 0
+        },
+        "unit_tokens": {
+          "GLOBAL_UNIT_ASSIGNED_CONTEXT": 3,
+          "GLOBAL_UNCERTAINTY_ASSIGNED_CONTEXT": 3,
+          "UNCERTAINTY_MEASURE_WITH_UNIT": 3
+        },
+        "has_presentation": true,
+        "has_pmi": false,
+        "has_external_refs": false,
+        "has_assembly_usage": false,
+        "has_unit_context": true
+      },
+      "source_stats": {
+        "free_shapes": 1,
+        "solids": 1,
+        "faces": 17,
+        "edges": 84,
+        "vertices": 168,
+        "bbox": [
+          -1e-07,
+          -1e-07,
+          -1.0000001,
+          40.0000001,
+          47.50000010000001,
+          6.0000001
+        ],
+        "volume": 8897.264465912518,
+        "colors": 1,
+        "layers": 0
+      },
+      "converted_stats": {
+        "free_shapes": 1,
+        "solids": 1,
+        "faces": 17,
+        "edges": 84,
+        "vertices": 168,
+        "bbox": [
+          -1e-07,
+          -1e-07,
+          -1.0000001,
+          40.0000001,
+          47.5000001,
+          6.0000001
+        ],
+        "volume": 8897.264465912698,
+        "colors": 1,
+        "layers": 0
+      },
+      "diff": {
+        "volume_delta": 1.800799509510398e-10,
+        "volume_rel_delta": 2.0239923365318385e-14,
+        "faces_delta": 0,
+        "edges_delta": 0,
+        "vertices_delta": 0,
+        "solids_delta": 0,
+        "colors_delta": 0,
+        "layers_delta": 0,
+        "bbox_delta": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          -7.105427357601002e-15,
+          0.0
+        ]
+      },
+      "warnings": []
+    }
+  }
+}

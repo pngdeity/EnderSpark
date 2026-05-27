@@ -68,7 +68,10 @@ def read_header_text(path: Path) -> str:
 
 
 def extract_header_value(header_text: str, keyword: str) -> str | None:
-    pattern = rf"{keyword}\s*\(\(\s*'([^']+)'"
+    if keyword.upper() == "FILE_NAME":
+        pattern = rf"{keyword}\s*\(\s*'([^']+)'"
+    else:
+        pattern = rf"{keyword}\s*\(\(\s*'([^']+)'"
     match = re.search(pattern, header_text, flags=re.IGNORECASE)
     return match.group(1) if match else None
 
@@ -141,7 +144,7 @@ def build_compound(doc: TDocStd.TDocStd_Document) -> tuple[TopoDS_Compound, int]
     builder = BRep_Builder()
     builder.MakeCompound(compound)
     for index in range(1, labels.Length() + 1):
-        builder.Add(compound, shape_tool.GetShape(labels.Value(index)))
+        builder.Add(compound, shape_tool.GetShape_s(labels.Value(index)))
     return compound, labels.Length()
 
 
